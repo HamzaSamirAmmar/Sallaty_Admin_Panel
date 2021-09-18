@@ -1,4 +1,4 @@
-# adminpanel
+# Sallaty Admin Panel
 
 A new Flutter project.
 
